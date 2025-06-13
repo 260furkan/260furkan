@@ -1,4 +1,4 @@
-[![MasterHead](http:https://images.pexels.com/photos/30305200/pexels-photo-30305200/free-photo-of-kahverengi-atlar-manzarali-ciftlik-manzarasinda-otluyor.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load)
+[![MasterHead]([https://e1.pxfuel.com/desktop-wallpaper/920/41/desktop-wallpaper-computer-full-screen-full-screen.jpg](https://images.pexels.com/photos/1421903/pexels-photo-1421903.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2))
 
 <h1 align="center">Hi 👋, I'm Furkan Türkoğlu</h1>
 <h3 align="center">Someone who strives for fullstack in Turkey</h3>
