@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan Türkoğlu</h1>
+<h1 align="center">Hi 👋, I'm Furkan </h1>
 <h3 align="center">Someone who strives for fullstack in Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=260furkan&label=Profile%20views&color=0e75b6&style=flat" alt="260furkan" /> </p>
